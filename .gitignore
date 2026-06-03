@@ -1,0 +1,6 @@
+node_modules/
+dist/
+*.log
+.env
+.DS_Store
+notification_app_be/db.json
